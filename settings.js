@@ -30,8 +30,8 @@ global.ownernomer = '+94769228163' //Owner Number <<<
 global.ownername = '༒☬ꪶ࿋྄ིꫂÇhͥαmͣïͫ†h༻☬༒' //Owner Name
 global.botname = ' ☬RED༒DRAGON' //Bot Name
 
-global.button = '🤭මේක ටච් කරන්න📍' //Costomize A Button Name In Alive Message
-global.btnurl = '🙂🔥දැන් සැපද?😑' //Change Your Button's URL
+global.button = 'ADMIN' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://wa.me/94769228163?text=Hi+Bro' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
